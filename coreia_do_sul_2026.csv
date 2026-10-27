@@ -207,3 +207,33 @@ K League 1 2026,FC Seoul - Gangwon FC,2026-10-24T05:00:00+00:00,finished,33,1-1,
 K League 1 2026,Gimcheon Sangmu FC - Daejeon Hana Citizen,2026-10-24T05:00:00+00:00,finished,33,1-2,,,0.0,[],[],[],{},"{""attack"":86,""ball_safe"":77,""dangerous_attack"":44,""attack_pct"":17,""ball_safe_pct"":51,""dangerous_attack_pct"":32,""yellow_cards"":2,""red_cards"":0,""xg"":{""actual"":null,""estimated"":null},""ball_possession"":null,""total_shots"":null,""shots_on_target"":null,""corner_kicks"":null,""fouls"":null,""offsides"":null}","{""attack"":77,""ball_safe"":79,""dangerous_attack"":44,""attack_pct"":24,""ball_safe_pct"":46,""dangerous_attack_pct"":30,""yellow_cards"":1,""red_cards"":0,""xg"":{""actual"":null,""estimated"":null},""ball_possession"":null,""total_shots"":null,""shots_on_target"":null,""corner_kicks"":null,""fouls"":null,""offsides"":null}",2026-10-25T06:00:42.657688+00:00
 K League 1 2026,Incheon United - Jeju SK,2026-10-24T05:00:00+00:00,finished,33,3-1,,,0.0,[],[],[],{},"{""attack"":123,""ball_safe"":94,""dangerous_attack"":68,""attack_pct"":32,""ball_safe_pct"":39,""dangerous_attack_pct"":29,""yellow_cards"":3,""red_cards"":0,""xg"":{""actual"":null,""estimated"":null},""ball_possession"":null,""total_shots"":null,""shots_on_target"":null,""corner_kicks"":null,""fouls"":null,""offsides"":null}","{""attack"":62,""ball_safe"":71,""dangerous_attack"":23,""attack_pct"":21,""ball_safe_pct"":58,""dangerous_attack_pct"":21,""yellow_cards"":5,""red_cards"":1,""xg"":{""actual"":null,""estimated"":null},""ball_possession"":null,""total_shots"":null,""shots_on_target"":null,""corner_kicks"":null,""fouls"":null,""offsides"":null}",2026-10-25T06:00:42.479780+00:00
 K League 1 2026,Ulsan HD - Pohang Steelers,2026-10-24T05:00:00+00:00,finished,33,2-2,,,0.0,[],[],[],{},"{""attack"":79,""ball_safe"":55,""dangerous_attack"":56,""attack_pct"":32,""ball_safe_pct"":32,""dangerous_attack_pct"":36,""yellow_cards"":2,""red_cards"":0,""xg"":{""actual"":null,""estimated"":null},""ball_possession"":null,""total_shots"":null,""shots_on_target"":null,""corner_kicks"":null,""fouls"":null,""offsides"":null}","{""attack"":44,""ball_safe"":52,""dangerous_attack"":29,""attack_pct"":22,""ball_safe_pct"":49,""dangerous_attack_pct"":29,""yellow_cards"":0,""red_cards"":0,""xg"":{""actual"":null,""estimated"":null},""ball_possession"":null,""total_shots"":null,""shots_on_target"":null,""corner_kicks"":null,""fouls"":null,""offsides"":null}",2026-10-25T06:00:42.300845+00:00
+K League 1 2026,Jeonbuk Hyundai Motors - Daejeon Hana Citizen,2026-10-31T05:00:00+00:00,notstarted,34,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560686+00:00
+K League 1 2026,Gwangju FC - Gimcheon Sangmu FC,2026-10-31T07:30:00+00:00,notstarted,34,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560670+00:00
+K League 1 2026,Pohang Steelers - Jeju SK,2026-11-01T05:00:00+00:00,notstarted,34,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560649+00:00
+K League 1 2026,Ulsan HD - Gangwon FC,2026-11-01T05:00:00+00:00,notstarted,34,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560659+00:00
+K League 1 2026,FC Anyang - Bucheon FC 1995,2026-11-01T07:30:00+00:00,notstarted,34,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560624+00:00
+K League 1 2026,FC Seoul - Incheon United,2026-11-01T07:30:00+00:00,notstarted,34,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560638+00:00
+K League 1 2026,Jeju SK - Gwangju FC,2026-11-07T05:00:00+00:00,notstarted,35,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560596+00:00
+K League 1 2026,Gimcheon Sangmu FC - FC Anyang,2026-11-07T07:30:00+00:00,notstarted,35,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560560+00:00
+K League 1 2026,Daejeon Hana Citizen - Incheon United,2026-11-08T05:00:00+00:00,notstarted,35,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560548+00:00
+K League 1 2026,FC Seoul - Ulsan HD,2026-11-08T05:00:00+00:00,notstarted,35,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560528+00:00
+K League 1 2026,Bucheon FC 1995 - Pohang Steelers,2026-11-08T07:30:00+00:00,notstarted,35,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560468+00:00
+K League 1 2026,Gangwon FC - Jeonbuk Hyundai Motors,2026-11-08T07:30:00+00:00,notstarted,35,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560489+00:00
+K League 1 2026,Jeonbuk Hyundai Motors - FC Seoul,2026-11-21T05:00:00+00:00,notstarted,36,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560453+00:00
+K League 1 2026,Pohang Steelers - FC Anyang,2026-11-21T05:00:00+00:00,notstarted,36,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560443+00:00
+K League 1 2026,Gangwon FC - Daejeon Hana Citizen,2026-11-21T07:30:00+00:00,notstarted,36,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560432+00:00
+K League 1 2026,Incheon United - Ulsan HD,2026-11-21T07:30:00+00:00,notstarted,36,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560421+00:00
+K League 1 2026,Gimcheon Sangmu FC - Jeju SK,2026-11-22T05:00:00+00:00,notstarted,36,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560410+00:00
+K League 1 2026,Gwangju FC - Bucheon FC 1995,2026-11-22T05:00:00+00:00,notstarted,36,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560398+00:00
+K League 1 2026,FC Anyang - Jeju SK,2026-11-28T05:00:00+00:00,notstarted,37,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560347+00:00
+K League 1 2026,FC Seoul - Daejeon Hana Citizen,2026-11-28T05:00:00+00:00,notstarted,37,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560380+00:00
+K League 1 2026,Bucheon FC 1995 - Gimcheon Sangmu FC,2026-11-28T07:30:00+00:00,notstarted,37,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560337+00:00
+K League 1 2026,Pohang Steelers - Gwangju FC,2026-11-28T07:30:00+00:00,notstarted,37,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560322+00:00
+K League 1 2026,Ulsan HD - Jeonbuk Hyundai Motors,2026-11-29T05:00:00+00:00,notstarted,37,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560312+00:00
+K League 1 2026,Incheon United - Gangwon FC,2026-11-29T07:30:00+00:00,notstarted,37,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560301+00:00
+K League 1 2026,FC Anyang - Gwangju FC,2026-12-05T05:00:00+00:00,notstarted,,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560281+00:00
+K League 1 2026,Gimcheon Sangmu FC - Pohang Steelers,2026-12-05T05:00:00+00:00,notstarted,,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560291+00:00
+K League 1 2026,Jeju SK - Bucheon FC 1995,2026-12-05T05:00:00+00:00,notstarted,,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560262+00:00
+K League 1 2026,Daejeon Hana Citizen - Ulsan HD,2026-12-06T05:00:00+00:00,notstarted,,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560239+00:00
+K League 1 2026,Gangwon FC - FC Seoul,2026-12-06T05:00:00+00:00,notstarted,,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560252+00:00
+K League 1 2026,Jeonbuk Hyundai Motors - Incheon United,2026-12-06T05:00:00+00:00,notstarted,,,,,,[],[],[],[],{},{},2026-10-27T06:00:35.560209+00:00
